@@ -1,0 +1,19 @@
+.first p{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 1.5 
+}
+.second p{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: .5;
+
+}
+.third p{
+    font-family: "Times New Roman", Times, serif;
+    font-size: large;
+    font-weight: normal;
+    line-height: 80%
+}
